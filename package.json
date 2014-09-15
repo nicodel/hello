@@ -1,0 +1,14 @@
+{
+  "name": "hello",
+  "type": "static",
+  "displayName": "Hello",
+  "version": "1.0.0",
+  "description": "Hello World for Cozy Light",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frankrousseau/hello.git"
+  },
+  "main": "index.html",
+  "cozy-displayName": "Hello"
+}
